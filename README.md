@@ -23,3 +23,4 @@
 
 ### 技术栈
 - 本项目使用 **Python** 编写代码进行数据分析与模型开发。
+- 对于代码和建模过程更详细的解答在我个人CSDN博客，链接：https://blog.csdn.net/fengyaopeng/article/details/132042092?spm=1001.2014.3001.5501

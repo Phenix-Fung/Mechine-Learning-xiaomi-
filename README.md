@@ -10,3 +10,4 @@
 ## 2. 数据集介绍
 
 该数据集由`X0~X23`和`front, left, right, back`均是传感器的参数，`label`则是最终选择的移动方向。共有**4865行数据**。本文主要使用**Python代码**。
+详细的代码解读可以到本人CSDN博客查看，链接：https://blog.csdn.net/fengyaopeng/article/details/132042092?spm=1001.2014.3001.5501

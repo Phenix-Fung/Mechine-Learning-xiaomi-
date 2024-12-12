@@ -1,5 +1,5 @@
-# 1. 小米扫地机器人智能导航系统(Xiaomi Sweeping Robot Intelligent Navigation System)
-## 项目背景介绍
+# 小米扫地机器人智能导航系统(Xiaomi Sweeping Robot Intelligent Navigation System)
+## 1. 项目背景介绍
 
 2020年，全球服务型机器人销售额达到**94.6亿美元**，同比增长**22.54%**；预计到2023年，全球服务机器人市场规模将突破**201亿美元**。  
 **人工智能技术**是服务机器人获得实质性发展的重要引擎，目前正从感知智能向认知智能加速迈进。  
